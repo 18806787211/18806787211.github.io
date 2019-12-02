@@ -1,0 +1,16 @@
+{
+    "name": "个人博客",
+    "short_name": "博坑网页",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "description": "博客网页",
+    "theme_color": "blue",
+    "icons": [
+      {
+        "src": "./Tomatoes.png",
+        "sizes": "144x144",
+        "type": "image/jpg"
+      }
+    ]
+}
